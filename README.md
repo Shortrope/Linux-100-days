@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 35: Feburary 5, 2019
+**Today's Progress:**  
+Finished Linux Academy: DevOps Essentials
+<br><br>
+
+---
 ## Day 34: Feburary 4, 2019
 **Today's Progress:**  
 Finished Linux Academy: LPIC 101
