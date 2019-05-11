@@ -50,8 +50,8 @@ login prompt
 
 ### Startup scripts
 
-Rhel:   /etc/rc.d/
-Debian: /etc/init.d
+Rhel:   /etc/rc.d/  
+Debian: /etc/init.d  
 
 ## Upstart init
 **rarely used any more**

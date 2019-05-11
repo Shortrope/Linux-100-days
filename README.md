@@ -1,5 +1,5 @@
 <!-- 
-## Day N: January N, 2018 - Nhr
+## Day N: January N, 2019 - Nhr
 **Today's Progress:**  
 **Thoughts:**  
 **Link to work:**  
@@ -8,8 +8,15 @@
 ---
 -->
 
-# 100 Days Of Python - Log
+# 100 Days Of Linux - Log
 
+## Day N: January N, 2019 - Nhr
+**Today's Progress:**  
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 35: Feburary 5, 2019
 **Today's Progress:**  
 Finished Linux Academy: DevOps Essentials
