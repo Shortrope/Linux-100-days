@@ -29,14 +29,14 @@ Finished Linux Academy: LPIC 101
 <br><br>
 
 ---
-## Day 3: January 4, 2018 - 1.5hr
+## Day 3: January 4, 2019 - 1.5hr
 **Today's Progress:**  
 Boot process  
 Sys V init, upstart, systemd 
 <br><br>
 
 ---
-## Day 2: January 3, 2018 - 1hr
+## Day 2: January 3, 2019 - 1hr
 **Today's Progress:**  
 Linux Academey: LPIC 101  
 Review pseudo file systems  
@@ -45,7 +45,7 @@ lsblk, lscpu, lspci, lsusb
 <br><br>
 
 ---
-## Day 1: January 2, 2018 - .5hr
+## Day 1: January 2, 2019 - .5hr
 **Today's Progress:**  
 Linux Academey: LPIC 101
 <br><br>
